@@ -1,3 +1,6 @@
-*obj/src/*
-*obj/test/*
-*bin/*
+*obj/src/Hangman/*.o
+*obj/src/HangmanLib/*.o
+*obj/src/Hangman/*.d
+*obj/src/HangmanLib/*.d
+*bin/main
+*bin/test
